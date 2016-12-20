@@ -64,6 +64,10 @@ body{
 }
 /* estilos de barra superior */
 /* menu */
+nav.navbar {
+    background-color: #ffffff;
+    border: none;
+}
 .iconmenuitem{
     font-size: 25px;
 }

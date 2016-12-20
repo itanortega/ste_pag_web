@@ -30,7 +30,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="menuitem <?php echo $active_home; ?>" href="index.php?page=home">
+                        <a class="<?php echo $active_home; ?>" href="index.php?page=home">
                             <div>
                                 <div class="iconmenuitem hidden-xs"><center><span class="fa fa-home" aria-hidden="true"></span></center></div>
                                 <div>INICIO</div>
@@ -38,7 +38,7 @@
                         </a>
                     </li>
                     <li>
-                        <a class="menuitem <?php echo $active_about; ?>" href="index.php?page=about">
+                        <a class="<?php echo $active_about; ?>" href="index.php?page=about">
                             <div>
                                 <div class="iconmenuitem hidden-xs"><center><span class="fa fa-user-circle" aria-hidden="true"></span></center></div>
                                 <div>NOSOTROS</div>
@@ -46,7 +46,7 @@
                         </a>
                     </li>
                     <li>
-                        <a class="menuitem <?php echo $active_service; ?>" href="index.php?page=service">
+                        <a class="<?php echo $active_service; ?>" href="index.php?page=service">
                             <div>
                                 <div class="iconmenuitem hidden-xs"><center><span class="fa fa-bars" aria-hidden="true"></span></center></div>
                                 <div>SERVICIOS</div>
@@ -54,7 +54,7 @@
                         </a>
                     </li>
                     <li>
-                        <a class="menuitem <?php echo $active_contact; ?>" href="index.php?page=contact">
+                        <a class="<?php echo $active_contact; ?>" href="index.php?page=contact">
                             <div>
                                 <div class="iconmenuitem hidden-xs"><center><span class="fa fa-comments" aria-hidden="true"></span></center></div>
                                 <div>CONTACTO</div>
