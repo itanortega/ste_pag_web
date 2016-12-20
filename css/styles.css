@@ -9,7 +9,7 @@ body{
 	overflow: hidden;
 	text-align: center;
 	z-index: 99999999;
-    background-color: #777777;
+    background-color: #399a0f;
 	color: #eeeeee;
 	width: 50px;
 	height: 48px;
@@ -28,7 +28,7 @@ body{
 	transition: all 0.5s ease-in-out;
 }
 .scroll-top-wrapper:hover {
-	background-color: #888888;
+	background-color: #35910e;
 }
 .scroll-top-wrapper.show {
     visibility:visible;
@@ -39,3 +39,36 @@ body{
 	line-height: inherit;
 }
 /** boton go top **/
+/* estilos de barra superior */
+.barra_negra{
+	background: #303341;
+	color: #fff;
+}
+.barra_negra a{
+	color: #fff;
+}
+.barra_negra a:active
+.barra_negra a:visited{
+	color: #fff;
+}
+.barra_negra a:hover{
+	color: #6bb327;
+}
+.login{
+	font-family: Arial, Helvetica, sans-serif !important;
+}
+.top-marg { margin-top:2px; margin-bottom:2px;}
+
+.iconos-sociales{
+	font-size: 1.2em;
+}
+/* estilos de barra superior */
+/* menu */
+.iconmenuitem{
+    font-size: 25px;
+}
+/* menu */
+.menu-item-active{
+    color: #399a0f !important;
+}
+/* menu */
