@@ -76,3 +76,29 @@ nav.navbar {
     color: #225A86 !important;
 }
 /* menu */
+
+/** footer **/
+.iconos-sociales2{
+	color: #fff;
+}
+.iconos-sociales2:active
+.iconos-sociales2:visited{
+	color: #fff;
+}
+.iconos-sociales2:hover{
+	color: #6bb327;
+}
+.redes-sociales-footer{
+	font-family: Arial, Helvetica, sans-serif !important;
+}
+footer{
+	background: #333333;
+	color: #fff !important;
+}
+
+.widget h3,
+.widget h5{
+	margin: 0 0 1.5em;
+	color : #fff;
+}
+/** footer **/
